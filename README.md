@@ -68,6 +68,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Tubes
 - https://www.curseforge.com/minecraft/mc-mods/tubes-reloaded
 
+### Tech Security
+- https://www.curseforge.com/minecraft/mc-mods/security-craft -- means to secure your things
+
 ### Tech Farming
 - https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture
 
@@ -78,8 +81,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/extended-crafting
 
 ### Power
-- https://www.curseforge.com/minecraft/mc-mods/solargeneration
-- https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn
+- https://www.curseforge.com/minecraft/mc-mods/solargeneration -- solar energy
+- https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn -- solar energy
 
 ### Space
 - https://www.curseforge.com/minecraft/mc-mods/space-bosstools
@@ -290,7 +293,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/easy-piglins
 - https://www.curseforge.com/minecraft/mc-mods/inventory-pets
 
-### Dimensions/Worldgen/Mobs
+### Dimensions/WorldGen/Mobs
 - https://www.curseforge.com/minecraft/mc-mods/untamedwilds -- mobs
 - https://www.curseforge.com/minecraft/mc-mods/various-oddities -- mobs
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/alterlands -- interesting! mobs soon
@@ -306,9 +309,12 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/environmental -- general world improvement + biomes
 - https://www.curseforge.com/minecraft/mc-mods/autumnity -- autumn biomes
 - https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
+- https://www.curseforge.com/minecraft/mc-mods/enhanced-vanilla-1-15-2
 
 ### Ores
 - https://www.curseforge.com/minecraft/mc-mods/ato -- all the ores
+- https://www.curseforge.com/minecraft/mc-mods/yungs-law -- ORES ONLY IN CAVES
+- https://www.curseforge.com/minecraft/mc-mods/swans-law -- ORES ONLY IN CAVES 2
 
 ### Structures
 - https://www.curseforge.com/minecraft/mc-mods/shrines-structures
