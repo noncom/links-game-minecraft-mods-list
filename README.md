@@ -1,4 +1,4 @@
-##Minecraft Mods
+## Minecraft Mods
 
 A collection of links to Minecraft mods that I'd like to keep a personal book of.
 
@@ -32,12 +32,20 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Low Tech
 - https://www.curseforge.com/minecraft/mc-mods/iron-furnaces -- this is crucial
 
-### Tech
+### Tech (various)
 - https://www.curseforge.com/minecraft/mc-mods/crossroads-mc -- awesome
 - https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing -- awesome as well!
 - https://www.curseforge.com/minecraft/mc-mods/immersive-engineering -- and this one too
-- Mekanism -- all of its four parts.. well, I'm not a too strong fan of it, but this mod has nice stuff and is loved by many
+- https://www.curseforge.com/minecraft/mc-mods/environmental-tech
 
+### Tech:Mekanism
+- https://www.curseforge.com/minecraft/mc-mods/mekanism
+- https://www.curseforge.com/minecraft/mc-mods/mekanism-generators
+- https://www.curseforge.com/minecraft/mc-mods/mekanism-tools
+- https://www.curseforge.com/minecraft/mc-mods/mekanism-additions
+- and a lot of other Mekanism addons which are probably just simpler to search for directly on CF
+
+### Tech:Thermal
 - https://www.curseforge.com/minecraft/mc-mods/thermal-foundation
 - https://www.curseforge.com/minecraft/mc-mods/thermal-expansion
 - https://www.curseforge.com/minecraft/mc-mods/thermal-innovation
@@ -45,12 +53,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion
 - https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics
 
+### Tech:Tinkers
 - https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
 - https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks
 
+### Tech:Create
 - https://www.curseforge.com/minecraft/mc-mods/create
 - https://www.curseforge.com/minecraft/mc-mods/createaddition
 
+### Tech:Integrated
 - https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics - base mod
 - https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels - extension for item and fluid transportation
 - https://www.curseforge.com/minecraft/mc-mods/integrated-terminals - extension for showing content of network
@@ -58,10 +69,10 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/integrated-rest - extremely advanced extension for web communication
 - https://www.curseforge.com/minecraft/mc-mods/integrated-nbt - QoL for advanced complex creations
 
+### Tech:RFTools
 - https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions
 
-- https://www.curseforge.com/minecraft/mc-mods/environmental-tech
-
+### Tech:AppliedEnergesics2
 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge -- To have wireless crafting terminals with infinite booster cards to acess the ME system anywhere
 - https://www.curseforge.com/minecraft/mc-mods/lazierae2
 
