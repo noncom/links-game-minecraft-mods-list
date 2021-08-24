@@ -65,6 +65,12 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge -- To have wireless crafting terminals with infinite booster cards to acess the ME system anywhere
 - https://www.curseforge.com/minecraft/mc-mods/lazierae2
 
+### Computers
+
+- https://www.curseforge.com/minecraft/mc-mods/cc-tweaked -- the core computer mod that's currently available
+- https://www.curseforge.com/minecraft/mc-mods/digital-items -- transform item stacks into numbers and back (storage teleportation)
+- https://www.curseforge.com/minecraft/mc-mods/bperipherals -- cool peripherals for CC:T
+
 ### Tubes
 - https://www.curseforge.com/minecraft/mc-mods/tubes-reloaded
 
@@ -355,6 +361,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Libs
 - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 - https://www.curseforge.com/minecraft/mc-mods/caelus -- more comfortable elytra coding
+
+### FEATURE SINKS -- mods that include too much stuff to be qualified into some category
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/modern-life -- a lot of cool stuff
 
 ### MODPACKS
 - [MODPACK, 1.16]: https://www.curseforge.com/minecraft/modpacks/winter-regrowth -- survive in harsh winter
