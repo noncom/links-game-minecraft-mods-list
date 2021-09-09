@@ -168,6 +168,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip -- see what items belong to what mod in the inventory UI!
 - https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 
+### UX / UserTools
+- https://www.curseforge.com/minecraft/mc-mods/notes -- notepad!
+
 ### FX
 - https://www.curseforge.com/minecraft/mc-mods/damage-tilt
 
@@ -373,16 +376,19 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 - https://www.curseforge.com/minecraft/mc-mods/caelus -- more comfortable elytra coding
 
+###Survival
+
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/cold-sweat -- temperature
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/survive -- SURVIVE (thirst, temperature, sleep, stamina)...
+
 ### FEATURE SINKS -- mods that include too much stuff to be qualified into some category
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/modern-life -- a lot of cool stuff
 
 ### MODPACKS
 - [MODPACK, 1.16]: https://www.curseforge.com/minecraft/modpacks/winter-regrowth -- survive in harsh winter
 
-
 ### UNSORTED
 - https://www.curseforge.com/minecraft/mc-mods/pedestals
-- [1.16] https://www.curseforge.com/minecraft/mc-mods/survive -- SURVIVE (thirst, temperature, sleep, stamina)...
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/burden-of-time -- world aging!
 - [1.17] https://www.curseforge.com/minecraft/mc-mods/end-of-civilization -- 1.17 !!! postapocalypse survival
 - [FABRIC, 1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/solar-apocalypse-refabricated/ -- solar apocalypse! interesting game mechanics!
@@ -391,3 +397,25 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/pattysmorestuff -- just items and blocks
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/eternal-tales -- megamod with dimensions, mobs, blocks, items, and so on...
 - [1.16 MC] https://www.curseforge.com/minecraft/mc-mods/terracraft-journey -- mobs, blocks, buildings, all stuff from Terraria
+
+
+# FABRIC
+
+### Magic
+
+- https://www.curseforge.com/minecraft/mc-mods/arcanus
+
+### Survival
+
+- https://www.curseforge.com/minecraft/mc-mods/environmentz -- temperatures
+
+### Skills / RPG
+
+- https://www.curseforge.com/minecraft/mc-mods/levelz -- various skills
+- https://www.curseforge.com/minecraft/mc-mods/playerex -- mostly combat-centered
+- https://www.curseforge.com/minecraft/mc-mods/relicex -- an addon to playerex
+
+### XP Storage
+
+- https://www.curseforge.com/minecraft/mc-mods/xp-obelisk -- block
+- https://www.curseforge.com/minecraft/mc-mods/xp-storage -- book
