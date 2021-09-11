@@ -401,13 +401,33 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 # FABRIC
 
+### Building
+
+- https://www.curseforge.com/minecraft/mc-mods/chipped -- over 2000 blocks
+- https://www.curseforge.com/minecraft/mc-mods/blockus -- more blocks
+- https://www.curseforge.com/minecraft/mc-mods/adorn -- blocks & furniture
+
 ### Magic
 
 - https://www.curseforge.com/minecraft/mc-mods/arcanus
+- https://www.curseforge.com/minecraft/mc-mods/incantationem -- enchantments
+- https://www.curseforge.com/minecraft/mc-mods/conjuring -- conjure entities
+
+### Tech
+
+- https://www.curseforge.com/minecraft/mc-mods/industrial-revolution -- main tech
+- https://www.curseforge.com/minecraft/mc-mods/modern-industrialization -- more tech
+- https://www.curseforge.com/minecraft/mc-mods/wireless-networks -- wires
+- https://www.curseforge.com/minecraft/mc-mods/lifts -- elevators
 
 ### Survival
 
 - https://www.curseforge.com/minecraft/mc-mods/environmentz -- temperatures
+
+### World
+
+- https://www.curseforge.com/minecraft/mc-mods/smoother-bedrock
+- https://www.curseforge.com/minecraft/mc-mods/ecotones -- better biomes
 
 ### Skills / RPG
 
@@ -415,7 +435,28 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/playerex -- mostly combat-centered
 - https://www.curseforge.com/minecraft/mc-mods/relicex -- an addon to playerex
 
+- https://www.curseforge.com/minecraft/mc-mods/origins -- origins
+- https://www.curseforge.com/minecraft/mc-mods/extra-origins -- more origins
+- https://www.curseforge.com/minecraft/mc-mods/mob-origins -- origins addon
+- https://www.curseforge.com/minecraft/mc-mods/origins-classes -- classes for origins
+
+### Questing
+
+- https://www.curseforge.com/minecraft/mc-mods/hardcore-questing-mode -- custom quests
+
 ### XP Storage
 
 - https://www.curseforge.com/minecraft/mc-mods/xp-obelisk -- block
 - https://www.curseforge.com/minecraft/mc-mods/xp-storage -- book
+
+### Veinmining
+
+- https://www.curseforge.com/minecraft/mc-mods/diggus-maximus
+
+### Physics
+
+- https://www.curseforge.com/minecraft/mc-mods/physics-mod -- physics
+
+### Optimization
+
+- https://www.curseforge.com/minecraft/mc-mods/dashloader -- optimize loading time
