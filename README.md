@@ -419,15 +419,39 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/modern-industrialization -- more tech
 - https://www.curseforge.com/minecraft/mc-mods/wireless-networks -- wires
 - https://www.curseforge.com/minecraft/mc-mods/lifts -- elevators
+- https://www.curseforge.com/minecraft/mc-mods/simpletech-for-fabric -- sieves
+
+### Beacons
+
+- https://www.curseforge.com/minecraft/mc-mods/beacons-for-all-fabric -- beacons affect mobs
+- https://www.curseforge.com/minecraft/mc-mods/experience-beacons-for-carpet -- more power to the beacons
+
+### Food
+
+- https://www.curseforge.com/minecraft/mc-mods/food-enhancements
+- https://www.curseforge.com/minecraft/mc-mods/food-pluss
+
+### Combat / Battle
+
+- https://www.curseforge.com/minecraft/mc-mods/wither-proof-block -- build wither cage easily
 
 ### Survival
 
 - https://www.curseforge.com/minecraft/mc-mods/environmentz -- temperatures
+- https://www.curseforge.com/minecraft/mc-mods/cozy-camps -- camping
 
 ### World
 
 - https://www.curseforge.com/minecraft/mc-mods/smoother-bedrock
 - https://www.curseforge.com/minecraft/mc-mods/ecotones -- better biomes
+
+### Inventory
+
+- https://www.curseforge.com/minecraft/mc-mods/compressed-mod -- block compression
+
+### Storage
+
+- https://www.curseforge.com/minecraft/mc-mods/iron-chests-for-fabric -- yep
 
 ### Skills / RPG
 
@@ -439,6 +463,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/extra-origins -- more origins
 - https://www.curseforge.com/minecraft/mc-mods/mob-origins -- origins addon
 - https://www.curseforge.com/minecraft/mc-mods/origins-classes -- classes for origins
+- https://www.curseforge.com/minecraft/mc-mods/shadekin-origin-forge-fabric -- shadekin origin
+- https://www.curseforge.com/minecraft/mc-mods/bedrockean-origin-forge-fabric -- bedrockean origin
+- https://www.curseforge.com/minecraft/mc-mods/origins-collection-2-forge-fabric -- more origins
 
 ### Questing
 
