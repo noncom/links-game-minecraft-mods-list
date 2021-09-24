@@ -449,9 +449,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - https://www.curseforge.com/minecraft/mc-mods/compressed-mod -- block compression
 
-### Storage
+### Storage / Furnaces
 
 - https://www.curseforge.com/minecraft/mc-mods/iron-chests-for-fabric -- yep
+- https://www.curseforge.com/minecraft/mc-mods/iron-furnaces-fabric -- yep
+- https://www.curseforge.com/minecraft/mc-mods/tokenable-furnaces-and-storage -- an interesting storage mod
+
+### Various Utility
+
+- https://www.curseforge.com/minecraft/mc-mods/oxidized -- more useful stuff from copper
 
 ### Skills / RPG
 
