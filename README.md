@@ -108,6 +108,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Storage
 - https://www.curseforge.com/minecraft/mc-mods/extra-disks -- because 64k is not enough considering that the immense variety of the stuff in the modpack quickly turns into huge numbers!
 - https://www.curseforge.com/minecraft/mc-mods/rs-requestify
+- https://www.curseforge.com/minecraft/mc-mods/storage-racks -- racks!
 
 - https://www.curseforge.com/minecraft/mc-mods/dimstorage
 - https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8
@@ -420,6 +421,10 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/wireless-networks -- wires
 - https://www.curseforge.com/minecraft/mc-mods/lifts -- elevators
 - https://www.curseforge.com/minecraft/mc-mods/simpletech-for-fabric -- sieves
+
+### Transport
+
+- https://www.curseforge.com/minecraft/mc-mods/grims-transportables -- horse carriages
 
 ### Beacons
 
