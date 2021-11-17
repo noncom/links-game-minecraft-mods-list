@@ -19,7 +19,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Farming
 - https://www.curseforge.com/minecraft/mc-mods/simple-farming -- better farming and re-planting of seeds
 - all of pams mods -- they are awesome
+- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
 - https://www.curseforge.com/minecraft/mc-mods/torcherino
+- https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads
 
 ### Planting
 - https://www.curseforge.com/minecraft/mc-mods/dispenseeds
@@ -76,6 +78,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge -- To have wireless crafting terminals with infinite booster cards to acess the ME system anywhere
 - https://www.curseforge.com/minecraft/mc-mods/lazierae2
 
+### Tech Power-related items
+- https://www.curseforge.com/minecraft/mc-mods/energymeter
+
 ### Computers
 
 - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked -- the core computer mod that's currently available
@@ -118,6 +123,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/pocket-storage
 - https://www.curseforge.com/minecraft/mc-mods/simple-storage-network
 
+- https://www.curseforge.com/minecraft/mc-mods/portable-tanks -- Tanks!
+
 ### Redstone
 - https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-re
 - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
@@ -144,6 +151,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Music
 - https://www.curseforge.com/minecraft/mc-mods/mcdj
+- https://www.curseforge.com/minecraft/mc-mods/music-maker-mod -- play instruments
 
 ### Harvesters/Miners/Quarries
 - https://www.curseforge.com/minecraft/mc-mods/spatial-harvesters-forge
@@ -168,6 +176,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/appleskin
 - https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip -- see what items belong to what mod in the inventory UI!
 - https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+- https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips -- cool ornated tooltips!!!
+
+- https://www.curseforge.com/minecraft/mc-mods/polymorph -- resolve conflicting recipes
 
 ### UX / UserTools
 - https://www.curseforge.com/minecraft/mc-mods/notes -- notepad!
@@ -208,6 +219,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/dustrial-decor
 - https://www.curseforge.com/minecraft/mc-mods/addendum -- end-themed building blocks
 - https://www.curseforge.com/minecraft/mc-mods/chipped
+- https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum -- awesome stuff from MineColonies makers
 
 ### Lights
 - https://www.curseforge.com/minecraft/mc-mods/additional-lights -- atmospheric lighting
@@ -255,6 +267,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/lootr
 - 
 
+### Tools
+- https://www.curseforge.com/minecraft/mc-mods/super-multi-drills
+
 ### Combat/RPG
 - https://www.curseforge.com/minecraft/mc-mods/project-war-dance -- more fighting mechanics
 - https://www.curseforge.com/minecraft/mc-mods/project-brazier -- RPG?
@@ -301,6 +316,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs even more mobs
 - [MC] https://www.curseforge.com/minecraft/mc-mods/flying-castles more dungeons but now above the ground
 - [MC] https://www.curseforge.com/minecraft/mc-mods/knights just make the knights (formidable enemies) from flying castles spawn in other places of the world
+- https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs -- many mobs, they come enchanted!
 
 ### Animals/NeutralMobs
 - https://www.curseforge.com/minecraft/mc-mods/better-animal-models
@@ -309,6 +325,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Villagers
 - https://www.curseforge.com/minecraft/mc-mods/easy-villagers
 - https://www.curseforge.com/minecraft/mc-mods/guard-villagers
+- https://www.curseforge.com/minecraft/mc-mods/trading-post -- trade with all the villagers in a village at once
 
 ### Mob Control
 - https://www.curseforge.com/minecraft/mc-mods/easy-piglins
@@ -382,8 +399,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/cold-sweat -- temperature
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/survive -- SURVIVE (thirst, temperature, sleep, stamina)...
 
+### XP / Experience
+- https://www.curseforge.com/minecraft/mc-mods/witherutils-exp -- fluid experience / experience to fluids and back
+
+### Commands / Console Commands
+- [1.17] https://www.curseforge.com/minecraft/mc-mods/thut-essentials -- essentials! with CLAIM for 1.17!!!
+
 ### FEATURE SINKS -- mods that include too much stuff to be qualified into some category
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/modern-life -- a lot of cool stuff
+- [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/xercamod -- cool blocks, food and some other features
 
 ### MODPACKS
 - [MODPACK, 1.16]: https://www.curseforge.com/minecraft/modpacks/winter-regrowth -- survive in harsh winter
