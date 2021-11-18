@@ -22,6 +22,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
 - https://www.curseforge.com/minecraft/mc-mods/torcherino
 - https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads
+- https://www.curseforge.com/minecraft/mc-mods/more-tea -- TEA!
 
 ### Planting
 - https://www.curseforge.com/minecraft/mc-mods/dispenseeds
@@ -290,12 +291,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/bad-mobs -- config mobs spawning
 - https://www.curseforge.com/minecraft/mc-mods/login-protection
 
+- https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica -- ores unification and config
+
 ### Achievements
 - https://www.curseforge.com/minecraft/mc-mods/seals -- display achievements
 
 ### Nether
 - https://www.curseforge.com/minecraft/mc-mods/pyromancer
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/conjuring -- magic and stuff! (NETHER)
+- https://www.curseforge.com/minecraft/mc-mods/infernal-expansion
 
 ### End
 - https://www.curseforge.com/minecraft/mc-mods/the-outer-end
