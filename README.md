@@ -41,14 +41,14 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/immersive-engineering -- and this one too
 - https://www.curseforge.com/minecraft/mc-mods/environmental-tech
 
-### Tech:Mekanism
+### Tech :: Mekanism
 - https://www.curseforge.com/minecraft/mc-mods/mekanism
 - https://www.curseforge.com/minecraft/mc-mods/mekanism-generators
 - https://www.curseforge.com/minecraft/mc-mods/mekanism-tools
 - https://www.curseforge.com/minecraft/mc-mods/mekanism-additions
 - and a lot of other Mekanism addons which are probably just simpler to search for directly on CF
 
-### Tech:Thermal
+### Tech :: Thermal
 - https://www.curseforge.com/minecraft/mc-mods/thermal-foundation
 - https://www.curseforge.com/minecraft/mc-mods/thermal-expansion
 - https://www.curseforge.com/minecraft/mc-mods/thermal-innovation
@@ -56,15 +56,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion
 - https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics
 
-### Tech:Tinkers
+### Tech :: Tinkers
 - https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
 - https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks
 
-### Tech:Create
+### Tech :: Create
 - https://www.curseforge.com/minecraft/mc-mods/create
 - https://www.curseforge.com/minecraft/mc-mods/createaddition
 
-### Tech:Integrated
+### Tech :: Integrated
 - https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics - base mod
 - https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels - extension for item and fluid transportation
 - https://www.curseforge.com/minecraft/mc-mods/integrated-terminals - extension for showing content of network
@@ -72,10 +72,10 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/integrated-rest - extremely advanced extension for web communication
 - https://www.curseforge.com/minecraft/mc-mods/integrated-nbt - QoL for advanced complex creations
 
-### Tech:RFTools
+### Tech :: RFTools
 - https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions
 
-### Tech:AppliedEnergesics2
+### Tech :: AppliedEnergesics2
 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge -- To have wireless crafting terminals with infinite booster cards to acess the ME system anywhere
 - https://www.curseforge.com/minecraft/mc-mods/lazierae2
 
@@ -142,7 +142,14 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
 - https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast
 
-### Magical Tech
+### Magic :: Runes
+- https://www.curseforge.com/minecraft/mc-mods/rune-craft
+- https://www.curseforge.com/minecraft/mc-mods/runes
+
+### Magic :: Cards
+- https://www.curseforge.com/minecraft/mc-mods/buddycards
+
+### Magic :: Tech
 - https://www.curseforge.com/minecraft/mc-mods/psionic-upgrades
 - https://www.curseforge.com/minecraft/mc-mods/projecte -- Project E.. well...
 
@@ -428,6 +435,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16 MC] https://www.curseforge.com/minecraft/mc-mods/terracraft-journey -- mobs, blocks, buildings, all stuff from Terraria
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 # FABRIC
 
 ### Building
