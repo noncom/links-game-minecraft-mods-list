@@ -287,6 +287,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/c-o-m-b-a-t -- a well-known mod with a ton of awesome stuff, but I must mention it here
 - https://www.curseforge.com/minecraft/mc-mods/tetra -- custom weapons system
 - https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass
+- https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod -- sould-like fighting mechanics
 
 ### Config
 - https://www.curseforge.com/minecraft/mc-mods/property-modifier
@@ -419,6 +420,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### FEATURE SINKS -- mods that include too much stuff to be qualified into some category
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/modern-life -- a lot of cool stuff
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/xercamod -- cool blocks, food and some other features
+- https://www.curseforge.com/minecraft/mc-mods/franciscofunari -- Medieval Craft, a lot of weapons, some structures
 
 ### MODPACKS
 - [MODPACK, 1.16]: https://www.curseforge.com/minecraft/modpacks/winter-regrowth -- survive in harsh winter
