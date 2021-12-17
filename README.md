@@ -106,6 +106,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Power
 - https://www.curseforge.com/minecraft/mc-mods/solargeneration -- solar energy
 - https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn -- solar energy
+- https://www.curseforge.com/minecraft/mc-mods/solar-energy -- solar energy
 
 ### Space
 - https://www.curseforge.com/minecraft/mc-mods/space-bosstools
@@ -138,6 +139,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/occultism
 - https://www.curseforge.com/minecraft/mc-mods/tome-of-blood
 - https://www.curseforge.com/minecraft/mc-mods/everlastingabilities
+- https://www.curseforge.com/minecraft/mc-mods/elements-of-power
 - 
 - https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
 - https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast
@@ -278,7 +280,10 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Tools
 - https://www.curseforge.com/minecraft/mc-mods/super-multi-drills
 
-### Combat/RPG
+### Tools / Weapons
+- https://www.curseforge.com/minecraft/mc-mods/powder-power -- weapons, tools, ores
+
+### Combat / RPG
 - https://www.curseforge.com/minecraft/mc-mods/project-war-dance -- more fighting mechanics
 - https://www.curseforge.com/minecraft/mc-mods/project-brazier -- RPG?
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/spazz0s-expanded-combat -- more weapons
