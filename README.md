@@ -296,15 +296,21 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Config
 - https://www.curseforge.com/minecraft/mc-mods/property-modifier
-- https://www.curseforge.com/minecraft/mc-mods/mobtastic -- mobs, almost classic
-- https://www.curseforge.com/minecraft/mc-mods/improved-mobs -- mobs control
+
+### Config :: Portals
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/restricted-portals -- control portals access
 - https://www.curseforge.com/minecraft/mc-mods/netherportalfix -- fix vanilla portals misconnection
-- https://www.curseforge.com/minecraft/mc-mods/jaopca -- ore compatibility
-- https://www.curseforge.com/minecraft/mc-mods/bad-mobs -- config mobs spawning
-- https://www.curseforge.com/minecraft/mc-mods/login-protection
 
+### Config :: Ores
+- https://www.curseforge.com/minecraft/mc-mods/jaopca -- ore compatibility
+- https://www.curseforge.com/minecraft/mc-mods/login-protection
 - https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica -- ores unification and config
+
+### Config :: Mobs
+- https://www.curseforge.com/minecraft/mc-mods/mobtastic -- mobs, almost classic
+- https://www.curseforge.com/minecraft/mc-mods/improved-mobs -- mobs control
+- https://www.curseforge.com/minecraft/mc-mods/bad-mobs -- config mobs spawning
+- https://www.curseforge.com/minecraft/mc-mods/tantrum -- Tantrum is a Entity Tweaker wich can make the adventure much harder in Minecraft!
 
 ### Achievements
 - https://www.curseforge.com/minecraft/mc-mods/seals -- display achievements
@@ -415,6 +421,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/cold-sweat -- temperature
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/survive -- SURVIVE (thirst, temperature, sleep, stamina)...
+- [1.17] https://www.curseforge.com/minecraft/mc-mods/tough-as-nails -- thirst, temperature and other stuff
 
 ### XP / Experience
 - https://www.curseforge.com/minecraft/mc-mods/witherutils-exp -- fluid experience / experience to fluids and back
