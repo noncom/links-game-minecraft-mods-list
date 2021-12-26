@@ -130,6 +130,12 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Redstone
 - https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-re
 - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
+- https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker -- more real circuitry with arithmetics
+
+- https://www.curseforge.com/minecraft/mc-mods/tiny-redstone -- tiny redstone
+- https://www.curseforge.com/minecraft/mc-mods/tiny-gates -- tiny redstone addon
+- https://www.curseforge.com/minecraft/mc-mods/tiny-pipes -- tiny redstone addon
+- https://www.curseforge.com/minecraft/mc-mods/ranged-wireless-redstone -- tiny redstone addon
 
 ### Magic
 - https://www.curseforge.com/minecraft/mc-mods/blood-magic
