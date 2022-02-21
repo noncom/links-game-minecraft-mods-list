@@ -83,7 +83,6 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/energymeter
 
 ### Computers
-
 - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked -- the core computer mod that's currently available
 - https://www.curseforge.com/minecraft/mc-mods/digital-items -- transform item stacks into numbers and back (storage teleportation)
 - https://www.curseforge.com/minecraft/mc-mods/bperipherals -- cool peripherals for CC:T
@@ -103,7 +102,11 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Crafting
 - https://www.curseforge.com/minecraft/mc-mods/extended-crafting
 
-### Power
+### Tech :: Power :: Nuclear
+- https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
+- https://www.curseforge.com/minecraft/mc-mods/biggerreactors
+
+### Tech :: Power :: Solar
 - https://www.curseforge.com/minecraft/mc-mods/solargeneration -- solar energy
 - https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn -- solar energy
 - https://www.curseforge.com/minecraft/mc-mods/solar-energy -- solar energy
@@ -115,6 +118,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Storage
 - https://www.curseforge.com/minecraft/mc-mods/extra-disks -- because 64k is not enough considering that the immense variety of the stuff in the modpack quickly turns into huge numbers!
 - https://www.curseforge.com/minecraft/mc-mods/rs-requestify
+- https://www.curseforge.com/minecraft/mc-mods/cable-tiers
+- 
 - https://www.curseforge.com/minecraft/mc-mods/storage-racks -- racks!
 
 - https://www.curseforge.com/minecraft/mc-mods/dimstorage
@@ -236,6 +241,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/addendum -- end-themed building blocks
 - https://www.curseforge.com/minecraft/mc-mods/chipped
 - https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum -- awesome stuff from MineColonies makers
+- https://www.curseforge.com/minecraft/mc-mods/arkys-environment
 
 ### Lights
 - https://www.curseforge.com/minecraft/mc-mods/additional-lights -- atmospheric lighting
@@ -307,10 +313,16 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/restricted-portals -- control portals access
 - https://www.curseforge.com/minecraft/mc-mods/netherportalfix -- fix vanilla portals misconnection
 
+### Config :: Dimensions
+- https://www.curseforge.com/minecraft/mc-mods/dimension-stages
+
 ### Config :: Ores
 - https://www.curseforge.com/minecraft/mc-mods/jaopca -- ore compatibility
 - https://www.curseforge.com/minecraft/mc-mods/login-protection
 - https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica -- ores unification and config
+- https://www.curseforge.com/minecraft/mc-mods/ore-tweaker
+- https://www.curseforge.com/minecraft/mc-mods/geolosys
+- https://www.curseforge.com/minecraft/mc-mods/auto-ore-dictionary-converter
 
 ### Config :: Mobs
 - https://www.curseforge.com/minecraft/mc-mods/mobtastic -- mobs, almost classic
@@ -332,6 +344,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Bees
 - https://www.curseforge.com/minecraft/mc-mods/buzzier-bees
+- https://www.curseforge.com/minecraft/mc-mods/productivebees
+- https://www.curseforge.com/minecraft/mc-mods/resourceful-bees
+- https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge
+- https://www.curseforge.com/minecraft/mc-mods/realistic-bees
+
+### Bees :: Forestry
+- https://www.curseforge.com/minecraft/mc-mods/forestry
+- https://www.curseforge.com/minecraft/mc-mods/magic-bees
+- https://www.curseforge.com/minecraft/mc-mods/jei-bees
 
 ### Mobs
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures -- mobs
@@ -377,11 +398,17 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/autumnity -- autumn biomes
 - https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
 - https://www.curseforge.com/minecraft/mc-mods/enhanced-vanilla-1-15-2
+- https://www.curseforge.com/minecraft/mc-mods/panthalassa
+
+- [RETIRED OR NOT?] https://www.curseforge.com/minecraft/mc-mods/worldblender
+- [RETIRED, 1.16 is the last] https://www.curseforge.com/minecraft/mc-mods/ultra-amplified-mod
 
 ### Ores
 - https://www.curseforge.com/minecraft/mc-mods/ato -- all the ores
 - https://www.curseforge.com/minecraft/mc-mods/yungs-law -- ORES ONLY IN CAVES
 - https://www.curseforge.com/minecraft/mc-mods/swans-law -- ORES ONLY IN CAVES 2
+- https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
+- https://www.curseforge.com/minecraft/mc-mods/ore-stone-variants
 
 ### Structures
 - https://www.curseforge.com/minecraft/mc-mods/shrines-structures
@@ -418,6 +445,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Debugging/Profiling/Dev
 - https://www.curseforge.com/minecraft/mc-mods/blame
 - https://www.curseforge.com/minecraft/mc-mods/crash-utilities
+- https://www.curseforge.com/minecraft/mc-mods/cyanide-forge -- better datapack worldgen error reports
 
 ### Libs
 - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
@@ -440,6 +468,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/xercamod -- cool blocks, food and some other features
 - https://www.curseforge.com/minecraft/mc-mods/franciscofunari -- Medieval Craft, a lot of weapons, some structures
 
+
 ### MODPACKS
 - [MODPACK, 1.16]: https://www.curseforge.com/minecraft/modpacks/winter-regrowth -- survive in harsh winter
 
@@ -454,6 +483,17 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/eternal-tales -- megamod with dimensions, mobs, blocks, items, and so on...
 - [1.16 MC] https://www.curseforge.com/minecraft/mc-mods/terracraft-journey -- mobs, blocks, buildings, all stuff from Terraria
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### DATAPACKS
+
+### Repurposed Structures + other mods
+- https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack 
+- https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-more-villagers-datapack
+- https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-farmers-delight-datapack
+- https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-immersive-engineering
+- https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-bountiful-datapack-compat (this one points to Fabric versions of the related mods, but should it work with Forge just as well? just like the others it's a datapack...)
+- https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-hexerei-datapack-compat
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # FABRIC
