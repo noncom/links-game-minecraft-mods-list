@@ -111,6 +111,10 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn -- solar energy
 - https://www.curseforge.com/minecraft/mc-mods/solar-energy -- solar energy
 
+### Flying
+- https://www.curseforge.com/minecraft/mc-mods/glider
+- https://www.curseforge.com/minecraft/mc-mods/paragliders
+
 ### Space
 - https://www.curseforge.com/minecraft/mc-mods/space-bosstools
 - https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry
@@ -382,6 +386,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/inventory-pets
 
 ### Dimensions/WorldGen/Mobs
+- https://www.curseforge.com/minecraft/mc-mods/paradise-lost -- Aether!
 - https://www.curseforge.com/minecraft/mc-mods/untamedwilds -- mobs
 - https://www.curseforge.com/minecraft/mc-mods/various-oddities -- mobs
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/alterlands -- interesting! mobs soon
@@ -402,6 +407,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - [RETIRED OR NOT?] https://www.curseforge.com/minecraft/mc-mods/worldblender
 - [RETIRED, 1.16 is the last] https://www.curseforge.com/minecraft/mc-mods/ultra-amplified-mod
+
+- [RETIRED? only 1.16] https://www.curseforge.com/minecraft/mc-mods/trouble-rpg
 
 ### Ores
 - https://www.curseforge.com/minecraft/mc-mods/ato -- all the ores
