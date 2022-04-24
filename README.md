@@ -34,12 +34,31 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Low Tech
 - https://www.curseforge.com/minecraft/mc-mods/iron-furnaces -- this is crucial
+- https://www.curseforge.com/minecraft/mc-mods/furnace-mk2 -- this is actually nextlevel!
 
 ### Tech (various)
 - https://www.curseforge.com/minecraft/mc-mods/crossroads-mc -- awesome
 - https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing -- awesome as well!
 - https://www.curseforge.com/minecraft/mc-mods/immersive-engineering -- and this one too
 - https://www.curseforge.com/minecraft/mc-mods/environmental-tech
+
+### Tech :: Power :: Nuclear
+- https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
+- https://www.curseforge.com/minecraft/mc-mods/biggerreactors
+
+### Tech :: Power :: Solar
+- https://www.curseforge.com/minecraft/mc-mods/solargeneration -- solar energy
+- https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn -- solar energy
+- https://www.curseforge.com/minecraft/mc-mods/solar-energy -- solar energy
+
+### Tech :: Security
+- https://www.curseforge.com/minecraft/mc-mods/security-craft -- means to secure your things
+
+### Tech :: Farming
+- https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture
+
+### Tech :: Items
+- https://www.curseforge.com/minecraft/mc-mods/compressium
 
 ### Tech :: Mekanism
 - https://www.curseforge.com/minecraft/mc-mods/mekanism
@@ -90,26 +109,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Tubes
 - https://www.curseforge.com/minecraft/mc-mods/tubes-reloaded
 
-### Tech Security
-- https://www.curseforge.com/minecraft/mc-mods/security-craft -- means to secure your things
-
-### Tech Farming
-- https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture
-
-### Tech Items
-- https://www.curseforge.com/minecraft/mc-mods/compressium
-
 ### Crafting
 - https://www.curseforge.com/minecraft/mc-mods/extended-crafting
-
-### Tech :: Power :: Nuclear
-- https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
-- https://www.curseforge.com/minecraft/mc-mods/biggerreactors
-
-### Tech :: Power :: Solar
-- https://www.curseforge.com/minecraft/mc-mods/solargeneration -- solar energy
-- https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn -- solar energy
-- https://www.curseforge.com/minecraft/mc-mods/solar-energy -- solar energy
 
 ### Flying
 - https://www.curseforge.com/minecraft/mc-mods/glider
@@ -123,9 +124,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/extra-disks -- because 64k is not enough considering that the immense variety of the stuff in the modpack quickly turns into huge numbers!
 - https://www.curseforge.com/minecraft/mc-mods/rs-requestify
 - https://www.curseforge.com/minecraft/mc-mods/cable-tiers
-- 
 - https://www.curseforge.com/minecraft/mc-mods/storage-racks -- racks!
-
 - https://www.curseforge.com/minecraft/mc-mods/dimstorage
 - https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8
 - https://www.curseforge.com/minecraft/mc-mods/storage-tech
@@ -140,7 +139,6 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-re
 - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
 - https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker -- more real circuitry with arithmetics
-
 - https://www.curseforge.com/minecraft/mc-mods/tiny-redstone -- tiny redstone
 - https://www.curseforge.com/minecraft/mc-mods/tiny-gates -- tiny redstone addon
 - https://www.curseforge.com/minecraft/mc-mods/tiny-pipes -- tiny redstone addon
@@ -155,7 +153,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/tome-of-blood
 - https://www.curseforge.com/minecraft/mc-mods/everlastingabilities
 - https://www.curseforge.com/minecraft/mc-mods/elements-of-power
-- 
+- https://www.curseforge.com/minecraft/mc-mods/malum
+
+### Magic :: Transform to something else
 - https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
 - https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast
 
@@ -165,6 +165,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Magic :: Cards
 - https://www.curseforge.com/minecraft/mc-mods/buddycards
+- https://www.curseforge.com/minecraft/mc-mods/buddycards-expansions
+- https://www.curseforge.com/minecraft/mc-mods/colony-cards -- BuddyCards for MineColonies
+- https://www.curseforge.com/minecraft/mc-mods/biome-cards -- BuddyCards for BYG
 
 ### Magic :: Tech
 - https://www.curseforge.com/minecraft/mc-mods/psionic-upgrades
@@ -284,7 +287,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Enchantment
 - https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting
-- 
+
+### Enchantments
+- https://www.curseforge.com/minecraft/mc-mods/netherited -- Fireproof enchantment
 
 ### Movement
 - https://www.curseforge.com/minecraft/mc-mods/wall-jump
@@ -341,6 +346,19 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/pyromancer
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/conjuring -- magic and stuff! (NETHER)
 - https://www.curseforge.com/minecraft/mc-mods/infernal-expansion
+- https://www.curseforge.com/minecraft/mc-mods/edible-nether-wart -- Nether Edible Wart
+
+### Nether :: Nether(ite) Items
+- https://www.curseforge.com/minecraft/mc-mods/more-netherite-stuff
+- https://www.curseforge.com/minecraft/mc-mods/netherite-beacons -- Netherite beacons
+
+### Nether :: Upgraded Netherite Items
+- https://www.curseforge.com/minecraft/mc-mods/upgraded-tools
+- https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite
+- https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite-items
+- https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite-ultimerite
+- https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite-creativerite
+- 
 
 ### End
 - https://www.curseforge.com/minecraft/mc-mods/the-outer-end
@@ -371,6 +389,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [MC] https://www.curseforge.com/minecraft/mc-mods/flying-castles more dungeons but now above the ground
 - [MC] https://www.curseforge.com/minecraft/mc-mods/knights just make the knights (formidable enemies) from flying castles spawn in other places of the world
 - https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs -- many mobs, they come enchanted!
+- https://www.curseforge.com/minecraft/mc-mods/nether-skeletons -- NETHER skeletons
 
 ### Animals/NeutralMobs
 - https://www.curseforge.com/minecraft/mc-mods/better-animal-models
@@ -404,6 +423,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
 - https://www.curseforge.com/minecraft/mc-mods/enhanced-vanilla-1-15-2
 - https://www.curseforge.com/minecraft/mc-mods/panthalassa
+- https://www.curseforge.com/minecraft/mc-mods/nourished-nether -- NETHER
+- https://www.curseforge.com/minecraft/mc-mods/enlightened-end -- END
+- https://www.curseforge.com/minecraft/mc-mods/ngv-forge -- NETHER golden veins
 
 - [RETIRED OR NOT?] https://www.curseforge.com/minecraft/mc-mods/worldblender
 - [RETIRED, 1.16 is the last] https://www.curseforge.com/minecraft/mc-mods/ultra-amplified-mod
@@ -428,6 +450,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/castle-dungeons
 - https://www.curseforge.com/minecraft/mc-mods/nuggets-dungeons-ii
 - https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced
+- https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-forge -- NETHER dungeons
 
 ### World Improvement
 - https://www.curseforge.com/minecraft/mc-mods/snow-real-magic
