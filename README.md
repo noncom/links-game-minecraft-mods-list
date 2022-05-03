@@ -143,6 +143,12 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/tiny-gates -- tiny redstone addon
 - https://www.curseforge.com/minecraft/mc-mods/tiny-pipes -- tiny redstone addon
 - https://www.curseforge.com/minecraft/mc-mods/ranged-wireless-redstone -- tiny redstone addon
+- https://www.curseforge.com/minecraft/mc-mods/redstone-extras
+- https://www.curseforge.com/minecraft/mc-mods/redstone-bits -- a few more devices
+- https://www.curseforge.com/minecraft/mc-mods/redstone-pen -- comfortly draw redstone
+- https://www.curseforge.com/minecraft/mc-mods/colored-redstone-lamps -- colorful redstone lamps, full light level
+- https://www.curseforge.com/minecraft/mc-mods/redstone-lamps-plus -- colorful redstone lamps, more colors, color-dependent light level
+
 
 ### Magic
 - https://www.curseforge.com/minecraft/mc-mods/blood-magic
@@ -154,6 +160,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/everlastingabilities
 - https://www.curseforge.com/minecraft/mc-mods/elements-of-power
 - https://www.curseforge.com/minecraft/mc-mods/malum
+- https://www.curseforge.com/minecraft/mc-mods/ydms-wizarding-world-of-harry-potter -- combinable magic spells
 
 ### Magic :: Transform to something else
 - https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
@@ -207,6 +214,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips -- cool ornated tooltips!!!
 
 - https://www.curseforge.com/minecraft/mc-mods/polymorph -- resolve conflicting recipes
+- https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes-forge -- look inside shulkers and put&take w/o placing it on the ground
 
 ### UX / UserTools
 - https://www.curseforge.com/minecraft/mc-mods/notes -- notepad!
@@ -249,6 +257,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/chipped
 - https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum -- awesome stuff from MineColonies makers
 - https://www.curseforge.com/minecraft/mc-mods/arkys-environment
+- https://www.curseforge.com/minecraft/mc-mods/extended-slabs-plus -- vertical slabs + dirt stairs
+- https://www.curseforge.com/minecraft/mc-mods/vanilla-extension -- a lot of vanilla-themed blocks extended to walls, slabs, trapdors and other
+- https://www.curseforge.com/minecraft/mc-mods/dayofmind -- more cool vanilla slabs and stairs
 
 ### Lights
 - https://www.curseforge.com/minecraft/mc-mods/additional-lights -- atmospheric lighting
@@ -266,7 +277,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-vehicle-mod
 - https://www.curseforge.com/minecraft/mc-mods/useful-railroads
 - https://www.curseforge.com/minecraft/mc-mods/small-ships -- finally some good ships!!!
-
+- https://www.curseforge.com/minecraft/mc-mods/skiing -- skiing and snowboarding!
 
 
 ### Teleportation
@@ -285,11 +296,13 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 ### Gear
 - https://www.curseforge.com/minecraft/mc-mods/mana-gear
 
-### Enchantment
+### Enchanting
 - https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting
+- https://www.curseforge.com/minecraft/mc-mods/expanded-weapon-enchanting -- mix enchantments on weapons
 
 ### Enchantments
 - https://www.curseforge.com/minecraft/mc-mods/netherited -- Fireproof enchantment
+- https://www.curseforge.com/minecraft/mc-mods/additional-enchants -- more enchants
 
 ### Movement
 - https://www.curseforge.com/minecraft/mc-mods/wall-jump
@@ -298,11 +311,19 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/lootr
 - 
 
+### Backpacks
+- https://www.curseforge.com/minecraft/mc-mods/bag-of-holding-forge -- simple bags, 3 tiers, easy in-out, custom enchantment for keeping after death
+
 ### Tools
 - https://www.curseforge.com/minecraft/mc-mods/super-multi-drills
+- https://www.curseforge.com/minecraft/mc-mods/easy-paxel
+- https://www.curseforge.com/minecraft/mc-mods/colds-easy-paxel-lite
 
 ### Tools / Weapons
 - https://www.curseforge.com/minecraft/mc-mods/powder-power -- weapons, tools, ores
+- https://www.curseforge.com/minecraft/mc-mods/easy-emerald-tools -- emerald and other gems stuff
+- https://www.curseforge.com/minecraft/mc-mods/consulars-extra-weapons -- 4 more vanilla+ weapon&tools families from redstone, lapis, emerals and coal
+- https://www.curseforge.com/minecraft/mc-mods/age-of-weapons -- 300 tools and weapons categorized by age (stone, modern, future, etc)
 
 ### Combat / RPG
 - https://www.curseforge.com/minecraft/mc-mods/project-war-dance -- more fighting mechanics
@@ -389,7 +410,10 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [MC] https://www.curseforge.com/minecraft/mc-mods/flying-castles more dungeons but now above the ground
 - [MC] https://www.curseforge.com/minecraft/mc-mods/knights just make the knights (formidable enemies) from flying castles spawn in other places of the world
 - https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs -- many mobs, they come enchanted!
+- https://www.curseforge.com/minecraft/mc-mods/infernal-tops -- The One Probe addon for Infernal Mobs
 - https://www.curseforge.com/minecraft/mc-mods/nether-skeletons -- NETHER skeletons
+- https://www.curseforge.com/minecraft/mc-mods/goat -- goats become more useful
+- https://www.curseforge.com/minecraft/mc-mods/ambient-additions -- more ambient mobs
 
 ### Animals/NeutralMobs
 - https://www.curseforge.com/minecraft/mc-mods/better-animal-models
@@ -426,6 +450,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/nourished-nether -- NETHER
 - https://www.curseforge.com/minecraft/mc-mods/enlightened-end -- END
 - https://www.curseforge.com/minecraft/mc-mods/ngv-forge -- NETHER golden veins
+- https://www.curseforge.com/minecraft/mc-mods/more-weaponry -- structures, but only for 1.19+
+- https://www.curseforge.com/minecraft/mc-mods/natural-additions -- nice small additions to various biomes
 
 - [RETIRED OR NOT?] https://www.curseforge.com/minecraft/mc-mods/worldblender
 - [RETIRED, 1.16 is the last] https://www.curseforge.com/minecraft/mc-mods/ultra-amplified-mod
@@ -444,6 +470,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures
 - https://www.curseforge.com/minecraft/mc-mods/yungs-extras
 - https://www.curseforge.com/minecraft/mc-mods/adventures-structures
+- https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild
+- https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions
 
 ### Dungeons
 - https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
@@ -456,6 +484,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/snow-real-magic
 - [FABRIC, 1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/illuminations
 - https://www.curseforge.com/minecraft/mc-mods/ambientsounds -- sounds
+- https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-forge -- world aging (with interaction)
 - 
 
 ### Structure Building
@@ -497,6 +526,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/modern-life -- a lot of cool stuff
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/xercamod -- cool blocks, food and some other features
 - https://www.curseforge.com/minecraft/mc-mods/franciscofunari -- Medieval Craft, a lot of weapons, some structures
+- https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge -- a lot of cool and useful stuff
 
 
 ### MODPACKS
