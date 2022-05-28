@@ -14,7 +14,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/neapolitan
 - https://www.curseforge.com/minecraft/mc-mods/berry-good
 - https://www.curseforge.com/minecraft/mc-mods/abnormals-delight
-- 
+- https://www.curseforge.com/minecraft/mc-mods/nethers-delight -- Nether cooking!
 
 ### Farming
 - https://www.curseforge.com/minecraft/mc-mods/simple-farming -- better farming and re-planting of seeds
@@ -265,6 +265,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/extended-slabs-plus -- vertical slabs + dirt stairs
 - https://www.curseforge.com/minecraft/mc-mods/vanilla-extension -- a lot of vanilla-themed blocks extended to walls, slabs, trapdors and other
 - https://www.curseforge.com/minecraft/mc-mods/dayofmind -- more cool vanilla slabs and stairs
+- https://www.curseforge.com/minecraft/mc-mods/stairway-to-aether -- more stairs, slabs, and some other
 
 - https://www.curseforge.com/minecraft/mc-mods/i-like-wood-oh-the-biomes-youll-go-plugin -- wood compat for BYG & I like Wood
 
@@ -333,6 +334,9 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/age-of-weapons -- 300 tools and weapons categorized by age (stone, modern, future, etc)
 - https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons -- realistic medieval stuff
 
+- https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge -- tools & armor better than Netherite
+- https://www.curseforge.com/minecraft/mc-mods/beyond-netherite -- ores, tools and armor
+
 ### Combat / RPG
 - https://www.curseforge.com/minecraft/mc-mods/project-war-dance -- more fighting mechanics
 - https://www.curseforge.com/minecraft/mc-mods/project-brazier -- RPG?
@@ -377,10 +381,28 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/infernal-expansion
 - https://www.curseforge.com/minecraft/mc-mods/edible-nether-wart -- Nether Edible Wart
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/nether-extra-update
+- https://www.curseforge.com/minecraft/mc-mods/nethers-delight -- Farmer's Delight extension
+- https://www.curseforge.com/minecraft/mc-mods/nourished-nether -- "Expands the Nether slighty further than the Nether Update did."
+
+- https://www.curseforge.com/minecraft/mc-mods/lava-java -- Nether Structure: the Lava Java Café.
+
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/nethers-flora
+
+### Nether :: Food
+
+- https://www.curseforge.com/minecraft/mc-mods/edible-nether-wart -- yay!
+- [MC] https://www.curseforge.com/minecraft/mc-mods/nethers-exoticism -- food & wood
+- https://www.curseforge.com/minecraft/mc-mods/fungi-stew -- food
+- [MC 1.16, abandoned] https://www.curseforge.com/minecraft/mc-mods/comfortable-nether 
 
 ### Nether :: Ores
 - https://www.curseforge.com/minecraft/mc-mods/more-unique-blackstone
-- 
+- https://www.curseforge.com/minecraft/mc-mods/sulfar-mod -- sulfur is better than coal and does some more stuff
+
+### Nether :: Tools & Weapons
+- https://www.curseforge.com/minecraft/mc-mods/blaze-gear 
+- https://www.curseforge.com/minecraft/mc-mods/netherrocks -- more ores + tools & weapons!
 
 ### Nether :: Nether(ite) Items
 - https://www.curseforge.com/minecraft/mc-mods/more-netherite-stuff
@@ -394,9 +416,16 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite-creativerite
 - 
 
+### Nether :: World Generation
+
+- https://www.curseforge.com/minecraft/mc-mods/ngv-forge -- Adds rare, large clusters of nether gold ore throughout every biome in the nether.
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/nether-hexed-kingdom -- Vanilla+ mod that adds 9 unique structures to the Nether including new entities.
+
 ### End
 - https://www.curseforge.com/minecraft/mc-mods/the-outer-end
 - https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port
+
+- https://www.curseforge.com/minecraft/mc-mods/etherium -- 1 ore + armor and tool set
 
 ### Bees
 - https://www.curseforge.com/minecraft/mc-mods/buzzier-bees
@@ -429,6 +458,14 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/ambient-additions -- more ambient mobs
 - [MC] https://www.curseforge.com/minecraft/mc-mods/sons-of-sins -- some mobs, one mob for each sin
 
+- https://www.curseforge.com/minecraft/mc-mods/special-drops -- cool mob drops!
+
+- https://www.curseforge.com/minecraft/mc-mods/armored-mobs -- armor on mobs!
+
+- https://www.curseforge.com/minecraft/mc-mods/awakened-bosses -- Herobrine boss
+- https://www.curseforge.com/minecraft/mc-mods/mutant-wolf -- wolf boss
+
+
 ### Animals/NeutralMobs
 - https://www.curseforge.com/minecraft/mc-mods/better-animal-models
 - https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus
@@ -437,6 +474,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/easy-villagers
 - https://www.curseforge.com/minecraft/mc-mods/guard-villagers
 - https://www.curseforge.com/minecraft/mc-mods/trading-post -- trade with all the villagers in a village at once
+- https://www.curseforge.com/minecraft/mc-mods/more-villager-trades -- Adds in 50+ New Trades to all of the Villages
+- https://www.curseforge.com/minecraft/mc-mods/mo-villager -- Redstone + Nether Traders
 
 ### Mob Control
 - https://www.curseforge.com/minecraft/mc-mods/easy-piglins
@@ -466,6 +505,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/ngv-forge -- NETHER golden veins
 - https://www.curseforge.com/minecraft/mc-mods/more-weaponry -- structures, but only for 1.19+
 - https://www.curseforge.com/minecraft/mc-mods/natural-additions -- nice small additions to various biomes
+
+- https://www.curseforge.com/minecraft/mc-mods/desert-upgrade -- some desert structures and new items
 
 - [RETIRED OR NOT?] https://www.curseforge.com/minecraft/mc-mods/worldblender
 - [RETIRED, 1.16 is the last] https://www.curseforge.com/minecraft/mc-mods/ultra-amplified-mod
@@ -565,6 +606,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor -- Steampunk Minecraft
 - https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn -- A lot of stuff
+- [1.16 only, at least until full release] https://www.curseforge.com/minecraft/mc-mods/levinide -- "Levinide is a Huge Mod which adds a ton of Everything"
 
 ### Featire Sinks :: Very opinionated
 - https://www.curseforge.com/minecraft/mc-mods/rediscovered -- include all unimplemented and unused Minecraft content, including one dimension!
@@ -652,6 +694,12 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - https://www.curseforge.com/minecraft/mc-mods/smoother-bedrock
 - https://www.curseforge.com/minecraft/mc-mods/ecotones -- better biomes
+
+### Nether
+- https://www.curseforge.com/minecraft/mc-mods/cinderscapes
+
+### Nether :: Tools & Items
+- https://www.curseforge.com/minecraft/mc-mods/gilded-netherite
 
 ### Inventory
 
