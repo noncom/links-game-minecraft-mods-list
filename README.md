@@ -170,6 +170,11 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/rune-craft
 - https://www.curseforge.com/minecraft/mc-mods/runes
 
+### Magic :: Items
+- https://www.curseforge.com/minecraft/mc-mods/powers-of-the-wild - a little mod with superpowers
+- https://www.curseforge.com/minecraft/mc-mods/keepers-of-the-stones -- many magical items
+- 
+
 ### Magic :: Cards
 - https://www.curseforge.com/minecraft/mc-mods/buddycards
 - https://www.curseforge.com/minecraft/mc-mods/buddycards-expansions
@@ -261,6 +266,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/vanilla-extension -- a lot of vanilla-themed blocks extended to walls, slabs, trapdors and other
 - https://www.curseforge.com/minecraft/mc-mods/dayofmind -- more cool vanilla slabs and stairs
 
+- https://www.curseforge.com/minecraft/mc-mods/i-like-wood-oh-the-biomes-youll-go-plugin -- wood compat for BYG & I like Wood
+
 ### Lights
 - https://www.curseforge.com/minecraft/mc-mods/additional-lights -- atmospheric lighting
 - https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod -- atmospheric lighting
@@ -324,6 +331,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/easy-emerald-tools -- emerald and other gems stuff
 - https://www.curseforge.com/minecraft/mc-mods/consulars-extra-weapons -- 4 more vanilla+ weapon&tools families from redstone, lapis, emerals and coal
 - https://www.curseforge.com/minecraft/mc-mods/age-of-weapons -- 300 tools and weapons categorized by age (stone, modern, future, etc)
+- https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons -- realistic medieval stuff
 
 ### Combat / RPG
 - https://www.curseforge.com/minecraft/mc-mods/project-war-dance -- more fighting mechanics
@@ -368,6 +376,11 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/conjuring -- magic and stuff! (NETHER)
 - https://www.curseforge.com/minecraft/mc-mods/infernal-expansion
 - https://www.curseforge.com/minecraft/mc-mods/edible-nether-wart -- Nether Edible Wart
+- [1.16] https://www.curseforge.com/minecraft/mc-mods/nether-extra-update
+
+### Nether :: Ores
+- https://www.curseforge.com/minecraft/mc-mods/more-unique-blackstone
+- 
 
 ### Nether :: Nether(ite) Items
 - https://www.curseforge.com/minecraft/mc-mods/more-netherite-stuff
@@ -414,6 +427,7 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/nether-skeletons -- NETHER skeletons
 - https://www.curseforge.com/minecraft/mc-mods/goat -- goats become more useful
 - https://www.curseforge.com/minecraft/mc-mods/ambient-additions -- more ambient mobs
+- [MC] https://www.curseforge.com/minecraft/mc-mods/sons-of-sins -- some mobs, one mob for each sin
 
 ### Animals/NeutralMobs
 - https://www.curseforge.com/minecraft/mc-mods/better-animal-models
@@ -458,12 +472,27 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - [RETIRED? only 1.16] https://www.curseforge.com/minecraft/mc-mods/trouble-rpg
 
+### World / other assorted from SWUTMS
+
+- https://www.curseforge.com/minecraft/mc-mods/swutms-extra-plains -- various stuff for plains
+- https://www.curseforge.com/minecraft/mc-mods/swutms-extra-desert -- various stuff for deserts
+- https://www.curseforge.com/minecraft/mc-mods/water-treasures
+- https://www.curseforge.com/minecraft/mc-mods/void-treasures
+- https://www.curseforge.com/minecraft/mc-mods/lava-treasures
+- https://www.curseforge.com/minecraft/mc-mods/netherite-stick
+- https://www.curseforge.com/minecraft/mc-mods/more-mushroom-stew
+- https://www.curseforge.com/minecraft/mc-mods/nether-flowers
+
 ### Ores
 - https://www.curseforge.com/minecraft/mc-mods/ato -- all the ores
 - https://www.curseforge.com/minecraft/mc-mods/yungs-law -- ORES ONLY IN CAVES
 - https://www.curseforge.com/minecraft/mc-mods/swans-law -- ORES ONLY IN CAVES 2
 - https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
 - https://www.curseforge.com/minecraft/mc-mods/ore-stone-variants
+
+### Ores and Crafting
+- https://www.curseforge.com/minecraft/mc-mods/thats-a-lot-of-items -- some ores, ingots, blocks and tool crafting
+- 
 
 ### Structures
 - https://www.curseforge.com/minecraft/mc-mods/shrines-structures
@@ -510,24 +539,37 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 - https://www.curseforge.com/minecraft/mc-mods/caelus -- more comfortable elytra coding
 
-###Survival
+### Survival
 
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/cold-sweat -- temperature
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/survive -- SURVIVE (thirst, temperature, sleep, stamina)...
 - [1.17] https://www.curseforge.com/minecraft/mc-mods/tough-as-nails -- thirst, temperature and other stuff
+- https://www.curseforge.com/minecraft/mc-mods/bed-of-nails -- temperature
+- 
 
 ### XP / Experience
 - https://www.curseforge.com/minecraft/mc-mods/witherutils-exp -- fluid experience / experience to fluids and back
 
 ### Commands / Console Commands
 - [1.17] https://www.curseforge.com/minecraft/mc-mods/thut-essentials -- essentials! with CLAIM for 1.17!!!
+- https://www.curseforge.com/minecraft/mc-mods/ide-better-command-block-forge-editor -- better command blocks editor
 
 ### FEATURE SINKS -- mods that include too much stuff to be qualified into some category
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/modern-life -- a lot of cool stuff
 - [1.16, 1.17] https://www.curseforge.com/minecraft/mc-mods/xercamod -- cool blocks, food and some other features
 - https://www.curseforge.com/minecraft/mc-mods/franciscofunari -- Medieval Craft, a lot of weapons, some structures
 - https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge -- a lot of cool and useful stuff
+- https://www.curseforge.com/minecraft/mc-mods/swoogmod -- mobs, materials, food
 
+### Feature Sinks :: Game Changing Remakes
+
+- https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor -- Steampunk Minecraft
+- https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn -- A lot of stuff
+
+### Featire Sinks :: Very opinionated
+- https://www.curseforge.com/minecraft/mc-mods/rediscovered -- include all unimplemented and unused Minecraft content, including one dimension!
+- https://www.curseforge.com/minecraft/mc-mods/decade-of-digging -- content from various Minecraft tropes
+- 
 
 ### MODPACKS
 - [MODPACK, 1.16]: https://www.curseforge.com/minecraft/modpacks/winter-regrowth -- survive in harsh winter
@@ -542,6 +584,11 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/pattysmorestuff -- just items and blocks
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/eternal-tales -- megamod with dimensions, mobs, blocks, items, and so on...
 - [1.16 MC] https://www.curseforge.com/minecraft/mc-mods/terracraft-journey -- mobs, blocks, buildings, all stuff from Terraria
+
+### Rendering
+
+- https://www.curseforge.com/minecraft/mc-mods/distant-horizons -- cache and render far
+- 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
