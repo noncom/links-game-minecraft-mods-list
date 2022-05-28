@@ -384,6 +384,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/nethers-delight -- Farmer's Delight extension
 - https://www.curseforge.com/minecraft/mc-mods/nourished-nether -- "Expands the Nether slighty further than the Nether Update did."
 
+- [MC] https://www.curseforge.com/minecraft/mc-mods/better-nether-life -- many additions
+
 - https://www.curseforge.com/minecraft/mc-mods/lava-java -- Nether Structure: the Lava Java Café.
 
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals
@@ -391,18 +393,26 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 ### Nether :: Food
 
+- https://www.curseforge.com/minecraft/mc-mods/nether-soups-mod -- Nether soups
 - https://www.curseforge.com/minecraft/mc-mods/edible-nether-wart -- yay!
 - [MC] https://www.curseforge.com/minecraft/mc-mods/nethers-exoticism -- food & wood
 - https://www.curseforge.com/minecraft/mc-mods/fungi-stew -- food
 - [MC 1.16, abandoned] https://www.curseforge.com/minecraft/mc-mods/comfortable-nether 
 
+### Nether :: Farm
+
+- https://www.curseforge.com/minecraft/mc-mods/nether-farming -- more crops to grow in the Nether
+
 ### Nether :: Ores
 - https://www.curseforge.com/minecraft/mc-mods/more-unique-blackstone
 - https://www.curseforge.com/minecraft/mc-mods/sulfar-mod -- sulfur is better than coal and does some more stuff
+- https://www.curseforge.com/minecraft/mc-mods/dimore -- ores
 
 ### Nether :: Tools & Weapons
 - https://www.curseforge.com/minecraft/mc-mods/blaze-gear 
 - https://www.curseforge.com/minecraft/mc-mods/netherrocks -- more ores + tools & weapons!
+- https://www.curseforge.com/minecraft/mc-mods/all-the-ites -- more ores + tools & weapons
+- https://www.curseforge.com/minecraft/mc-mods/dyetherite -- dyable Netherite armor, why not :)
 
 ### Nether :: Nether(ite) Items
 - https://www.curseforge.com/minecraft/mc-mods/more-netherite-stuff
@@ -420,12 +430,15 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 
 - https://www.curseforge.com/minecraft/mc-mods/ngv-forge -- Adds rare, large clusters of nether gold ore throughout every biome in the nether.
 - [1.16] https://www.curseforge.com/minecraft/mc-mods/nether-hexed-kingdom -- Vanilla+ mod that adds 9 unique structures to the Nether including new entities.
+- https://www.curseforge.com/minecraft/mc-mods/betterheight -- more height
 
 ### End
 - https://www.curseforge.com/minecraft/mc-mods/the-outer-end
 - https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port
 
 - https://www.curseforge.com/minecraft/mc-mods/etherium -- 1 ore + armor and tool set
+- https://www.curseforge.com/minecraft/mc-mods/endonium -- ores
+- https://www.curseforge.com/minecraft/mc-mods/dimore -- vanilla ores
 
 ### Bees
 - https://www.curseforge.com/minecraft/mc-mods/buzzier-bees
@@ -505,6 +518,8 @@ A collection of links to Minecraft mods that I'd like to keep a personal book of
 - https://www.curseforge.com/minecraft/mc-mods/ngv-forge -- NETHER golden veins
 - https://www.curseforge.com/minecraft/mc-mods/more-weaponry -- structures, but only for 1.19+
 - https://www.curseforge.com/minecraft/mc-mods/natural-additions -- nice small additions to various biomes
+
+- https://www.curseforge.com/minecraft/mc-mods/layers -- more dimension layers before, between and after vanilla dimensions
 
 - https://www.curseforge.com/minecraft/mc-mods/desert-upgrade -- some desert structures and new items
 
